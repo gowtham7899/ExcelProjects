@@ -1,6 +1,6 @@
 # ExcelProjects
 # Monthly Budget Report
-A personal budgeting tool I created in Excel to track and manage my finances more efficiently.
+A personal budgeting tool I created in Excel and Google Sheets to track and manage my finances more efficiently.
 
 Features
 - Start and End Balance tracking
