@@ -1,18 +1,32 @@
-# ExcelProjects
-# Monthly Budget Report
-A personal budgeting tool I created in Excel and Google Sheets to track and manage my finances more efficiently.
+# 🧠 Data Analysis Project Portfolio
 
-Features
-- Start and End Balance tracking
-- Planned vs Actual income and expense tracking
-- Difference column with conditional formatting
-- IF statements to display dynamic savings messages
-- Total calculations and balance analysis
+Welcome to my portfolio of data analysis projects. 
 
-View the Sheet
-https://docs.google.com/spreadsheets/d/1AZFmAxVMxl6h-YMBwQ16n41TynGjHV_seUKiFsH1XQQ/edit?usp=sharing
+---
 
-What I Learned
-- Logical formula design
-- Practical finance tracking
-- Enhancing sheets with conditional formatting for insights
+## 📁 Project Overview
+
+### 🚗 1. Supply Chain Management for Cars (Power BI + Python)
+
+### 🛒 2. Superstore Sales Performance Dashboard (Power BI)
+
+### 🍫 3. Chocolate Sales Analysis (Excel)
+
+### 💸 4. Monthly Budget Tracker (Excel)
+
+---
+
+## 🛠️ Tools & Technologies
+- **Power BI** – DAX, Power Query, dashboards, KPI visualization, Power BI Service
+- **Python** – pandas, NumPy, matplotlib (for data cleaning and analysis)
+- **Excel** – PivotTables, advanced formulas, conditional formatting, dashboarding
+
+---
+
+## 🎯 Objective
+This project repository reflects my ability to:
+- Analyze and transform data into actionable insights
+- Create impactful dashboards for decision-making
+- Automate data cleaning processes and highlight trends clearly
+
+
