@@ -1,4 +1,4 @@
-# 🧠 Data Analysis Project Portfolio
+#  Data Analysis Project Portfolio
 
 Welcome to my portfolio of data analysis projects. 
 
@@ -6,9 +6,9 @@ Welcome to my portfolio of data analysis projects.
 
 ## 📁 Project Overview
 
-### 🚗 1. Supply Chain Management for Cars (Power BI + Python)
+### 🚗 1. Blinkit sales (Power BI)
 
-### 🛒 2. Superstore Sales Performance Dashboard (Power BI)
+### 🛒 2. Supply chain management for cars (Power BI)
 
 ### 🍫 3. Chocolate Sales Analysis (Excel)
 
