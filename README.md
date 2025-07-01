@@ -8,7 +8,7 @@ Welcome to my portfolio of data analysis projects.
 
 ### 🚗 1. Blinkit sales (Power BI)
 
-### 🛒 2. Supply chain management for cars (Power BI)
+### 🛒 2. Supply chain management for cars (Power BI + Python + SQL)
 
 ### 🍫 3. Chocolate Sales Analysis (Excel)
 
